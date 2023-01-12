@@ -56,5 +56,5 @@ I want to keep my focus on web development and explore/train more about CSS.
 ## Author
 
 - Website - [Marcelo Santana](https://www.github.com/marcsantana)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@marcsantana](https://www.frontendmentor.io/profile/marcsantana)
 - Linkedin - [@marc-santana](https://www.linkedin.com/in/marcelo-santana)
